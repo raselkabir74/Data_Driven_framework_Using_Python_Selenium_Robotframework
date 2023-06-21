@@ -1,0 +1,10 @@
+robotframework==3.1.1
+selenium==4.8.2
+openpyxl==2.5.14
+xlrd
+pywin32
+pypubsub==3.3.0
+pyautogui
+pywinauto==0.6.6
+robotframework-metrics==3.1.1
+

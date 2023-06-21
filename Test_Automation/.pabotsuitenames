@@ -1,0 +1,8 @@
+datasources:e1acb296982819754e437d1bf74eba977eec1d66
+commandlineoptions:f944eac5d8fd222e051ab2ccec088c4c38371e40
+suitesfrom:no-suites-from-option
+file:0ba4a945fdb66e59a3c3f7e5113b3b81b0bee75a
+--suite Suites.TC AutomateAmazonKDP 1
+--suite Suites.TC AutomateAmazonKDP 2
+--suite Suites.TC AutomateAmazonKDP 3
+--suite Suites.TC AutomateAmazonKDP 4

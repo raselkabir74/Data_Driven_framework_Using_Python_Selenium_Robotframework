@@ -1,0 +1,16 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.TC AutomateAmazonKDP 2 :: A Test Suite With Set Of Tests To Validate...
+==============================================================================
+Validate Publish Papers using 1                                       | PASS |
+------------------------------------------------------------------------------
+Suites.TC AutomateAmazonKDP 2 :: A Test Suite With Set Of Tests To... | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  D:\Projects\AmazonKDP\Test_Automation\Automation_Reports\Tue_09_29_2020_195821_68\pabot_results\1\output.xml
